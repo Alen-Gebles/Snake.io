@@ -17,7 +17,6 @@ Installation
 
     Open index.html in your favorite browser to start playing.
 
-Screenshots
 
 How to Play
 
